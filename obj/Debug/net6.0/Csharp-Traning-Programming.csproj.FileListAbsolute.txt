@@ -1,0 +1,15 @@
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\bin\Debug\net6.0\Csharp-Traning-Programming.exe
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\bin\Debug\net6.0\Csharp-Traning-Programming.deps.json
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\bin\Debug\net6.0\Csharp-Traning-Programming.runtimeconfig.json
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\bin\Debug\net6.0\Csharp-Traning-Programming.dll
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\bin\Debug\net6.0\Csharp-Traning-Programming.pdb
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.csproj.AssemblyReference.cache
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.AssemblyInfoInputs.cache
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.AssemblyInfo.cs
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.csproj.CoreCompileInputs.cache
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.dll
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\refint\Csharp-Traning-Programming.dll
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.pdb
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\Csharp-Traning-Programming.genruntimeconfig.cache
+C:\Users\Jonadabe Santos\Documents\GitHub\Csharp-Traning-Programming\obj\Debug\net6.0\ref\Csharp-Traning-Programming.dll
